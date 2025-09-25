@@ -36,6 +36,4 @@ Meu objetivo é aplicar técnicas de análise para transformar dados em informa�
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561985989372)
 
 ## Linguagens Utilizadas
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LimasDev61&layout=compact&theme=dracula)
-
-
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LimasDev61&layout=default&theme=dracula)
