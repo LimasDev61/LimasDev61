@@ -30,13 +30,20 @@ Meu objetivo é aplicar técnicas de análise para transformar dados em informa�
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## Vamos Conectar!
+## 🔗 Vamos Conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-lima-1a0358230/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5561985989372)
 
-# GitStatus
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark)
 
-## Linguagens Utilizadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark)
+## 🧠 Linguagens Utilizadas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark)
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=transparent)
+
+
+
+
